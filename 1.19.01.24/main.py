@@ -1,6 +1,6 @@
-import search_program
+from search_program import work_with_phonebook
 
-#from search_program inport wowork_with_phonebook #Импортирует определенные функции
-#import search_program as sp # - задаем сокращенное название программам
+#import search_program
+#import search_program as sp
 
-search_program.work_with_phonebook()
+work_with_phonebook()#??? - Не работает
